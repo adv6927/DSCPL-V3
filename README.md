@@ -77,4 +77,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Made by Adityvardhan Sharma with love 
+Made by Adityvardhan Sharma with Love. 
