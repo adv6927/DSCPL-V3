@@ -78,3 +78,6 @@ This project is licensed under the MIT License.
 ---
 
 Made by Adityvardhan Sharma with Love. 
+
+
+There was an issue with the github file, please move the components folder inside the src folder instead of it staying in the roor directory.
